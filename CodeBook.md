@@ -1,4 +1,4 @@
-# Getting and Cleaning Data Project
+# Getting and Cleaning Data
 
  Srivats
 
@@ -8,7 +8,7 @@ Additional information about the variables, data and transformations used in the
 
 ## Source Data
 
-A full description of the data used in this project can be found at The UCI Machine Learning Repository
+A full description of the data used in this project can be found at http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 ## Data Set Information
 
